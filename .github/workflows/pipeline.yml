@@ -1,0 +1,38 @@
+name: Telemetry CI Pipeline
+
+# 1. The Trigger: When should this run?
+on:
+  push:
+    branches:
+      - main
+
+# 2. The Engine: What machine are we using?
+jobs:
+  analyze-logs:
+    runs-on: ubuntu-latest
+
+    # 3. The Execution: What are the steps?
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+
+      - name: Run Telemetry Generator
+        run: python log_generator.py
+
+      - name: Run Log Analyzer
+        run: python analyzer.py
+
+      - name: Verify JSON Output
+        run: |
+          if [ -f "report.json" ]; then
+            echo "Success: report.json was generated!"
+            cat report.json | head -n 15
+          else
+            echo "CRITICAL: report.json not found. Pipeline failed."
+            exit 1
+          fi
