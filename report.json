@@ -1,0 +1,10134 @@
+[
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Disconnected"
+    },
+    {
+        "device": "Pixel_7",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_9",
+        "status": "Status"
+    },
+    {
+        "device": "Pixel_10_XL",
+        "status": "Connected"
+    },
+    {
+        "device": "Pixel_8a",
+        "status": "Status"
+    }
+]
